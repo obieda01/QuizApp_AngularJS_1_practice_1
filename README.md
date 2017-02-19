@@ -1,6 +1,7 @@
 # ![pageres](media/promo.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)
+![bitHound](https://img.shields.io/bithound/code/github/rexxars/sse-channel.svg)
 ![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)
 ![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)
 ![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)
