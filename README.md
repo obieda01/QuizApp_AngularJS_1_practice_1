@@ -2,11 +2,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)
 ![bitHound](https://img.shields.io/bithound/code/github/rexxars/sse-channel.svg)
-![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)
 ![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)
 ![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-[![License](https://img.shields.io/badge/Licence-Ahmad-blue.svg)
+![License](https://img.shields.io/badge/Licence-Ahmad-blue.svg)
 
 GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
 
