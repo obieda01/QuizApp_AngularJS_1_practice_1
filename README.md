@@ -1,7 +1,8 @@
 # ![pageres](media/promo.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)]
-[![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)
+ [![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)
+[![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)]
+[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)
 [![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)](https://gitter.im/github-changelog-generator/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT)
@@ -11,9 +12,7 @@
 [![PyPI version](https://img.shields.io/github/issues/badges/shields.svg)
 [![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)](https://travis-ci.org/anfederico/Clairvoyant)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-[![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
 
 Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
