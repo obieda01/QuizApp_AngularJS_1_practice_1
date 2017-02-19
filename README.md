@@ -6,7 +6,7 @@
 ![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)
 ![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
+[![License](https://img.shields.io/badge/Licence-Ahmad-blue.svg)
 
 GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
 
