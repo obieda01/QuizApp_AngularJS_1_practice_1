@@ -1,8 +1,8 @@
 # ![pageres](media/promo.png)
+
+
 [![Dependency Status](https://gemnasium.com/skywinder/github-changelog-generator.svg)](https://gemnasium.com/skywinder/github-changelog-generator)
-[![Build Status](https://travis-ci.org/skywinder/github-changelog-generator.svg?branch=master)](https://travis-ci.org/skywinder/github-changelog-generator)
 [![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)](http://inch-ci.org/github/skywinder/github-changelog-generator)
-[![Code Climate](https://codeclimate.com/github/skywinder/github-changelog-generator/badges/gpa.svg)](https://codeclimate.com/github/skywinder/github-changelog-generator)
 [![Test Coverage](https://codeclimate.com/github/skywinder/github-changelog-generator/badges/coverage.svg)](https://codeclimate.com/github/skywinder/github-changelog-generator)
 [![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)](https://gitter.im/github-changelog-generator/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
