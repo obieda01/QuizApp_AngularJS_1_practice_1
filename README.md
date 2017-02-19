@@ -4,10 +4,8 @@
 ![bitHound](https://img.shields.io/bithound/code/github/rexxars/sse-channel.svg)
 ![Inline docs](http://inch-ci.org/github/skywinder/github-changelog-generator.svg)
 ![Test Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)
-![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)
 ![Join the chat at https://gitter.im/github-changelog-generator/chat](https://badges.gitter.im/github-changelog-generator/chat.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 
 
 GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
