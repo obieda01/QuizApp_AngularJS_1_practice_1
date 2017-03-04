@@ -95,7 +95,7 @@ body {
 }
 
 #myQuiz .progress div.on,
-#myQuiz .progress div.answerd {
+#myQuiz .progress div.answered {
     background-color: #efbe5e
 }
 
@@ -167,15 +167,15 @@ body {
     background-image: url(../images/icon_correct.svg);
 }
 
-#myQuiz .question.unanswerd .ans {
+#myQuiz .question.unanswered .ans {
     cursor: pointer;
 }
 
-#myQuiz .question.unanswerd .ans:hover {
+#myQuiz .question.unanswered .ans:hover {
     background-color: rgba(238, 189, 102, .2);
 }
 
-#myQuiz .question.answerd .ans {
+#myQuiz .question.answered .ans {
     cursor: default;
 }
 
@@ -198,7 +198,7 @@ body {
     color: #fff;
 }
 
-#myQuiz .answerd .feedback {
+#myQuiz .answered .feedback {
     visibility: visible;
     opacity: 1;
     margin-top: 10px;
@@ -246,6 +246,6 @@ body {
 }
 
 #myQuiz .intro.inactive,
-#myQuiz.inactive.answerd {
+#myQuiz.inactive.answered {
     left: -1350px;
 }
