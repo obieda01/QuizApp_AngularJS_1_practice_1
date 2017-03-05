@@ -27,10 +27,11 @@
                     $scope.myQuestions[qIndex].correctness = 'correct';
                     $scope.score += 1;
                 } else {
-                    $scope.myQuestions[qIndex].questionState = 'incorrect';
+                    $scope.myQuestions[qIndex].correctness = 'incorrect';
                 }
                 $scope.myQuestions[qIndex].questionState = 'answered';
             }
+            $scope.persentage = (($scope.score / $scope.totalQuestions) * 100).toFixed(2);
         }
 
 
@@ -42,6 +43,17 @@
             return $scope.myQuestions[qIndex].correctAnswer === aIndex;
         }
 
+        $scope.selectContinue = function() {
+            return $scope.activeQuestion += 1;
+        }
+
+        $scope.createShareLinks = function(persentage) {
+            var url = '';
+            var emailLink = '<a class="btn email" href="mailto:?subject=Try to beat my quiz score!&amp;body=I scored a' + persentage + '% on this quiz. Try to beat my quiz score at ' + url + '">Email a friend</a>';
+            var twiteerLink = '<a class="btn twitter" href="#">Tweet your score.</a>';
+            var newMarkup = emailLink + twiteerLink;
+            return $sce.trustAsHtml(newMarkup);
+        }
 
 
     }]);
